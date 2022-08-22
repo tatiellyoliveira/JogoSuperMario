@@ -1,10 +1,10 @@
 mario = document.querySelector('.mario');
 pipe = document.querySelector('.pipe');
 grass = document.querySelector('.grass');
-textStart = document.querySelector('text-start')
-floor1 = document.querySelector('.floor-1')
-floor2 = document.querySelector('.floor-2')
-floor3 = document.querySelector('.floor-3')
+textStart = document.querySelector('text-start');
+floor1 = document.querySelector('.floor-1');
+floor2 = document.querySelector('.floor-2');
+floor3 = document.querySelector('.floor-3');
 
 const start = () => {
 
